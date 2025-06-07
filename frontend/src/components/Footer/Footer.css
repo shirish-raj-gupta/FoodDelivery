@@ -6,6 +6,7 @@
   flex-direction: column;
   gap: 20px;
   padding: 80px 8vw 20px;
+  margin-top: 50px;
 }
 
 .footer-content {
